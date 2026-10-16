@@ -1,0 +1,1 @@
+See the downloadable project ZIP for the original SHA-256 checksums. Recompute after uploading the .pkt binaries using `sha256sum lab-*/*.pkt`.
