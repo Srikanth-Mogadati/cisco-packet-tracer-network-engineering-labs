@@ -1,1 +1,3 @@
-See the downloadable project ZIP for the original SHA-256 checksums. Recompute after uploading the .pkt binaries using `sha256sum lab-*/*.pkt`.
+c9ad4662a27e074fcc0790a59c36b7be69a052fd886811e7a4352e492d2bfb28  lab-01-basic-lan/lab-01.pkt
+42ef831b8f8714e733b3ea40f9da8caf95ca0f80dee8ae98e4a03666f1f47079  lab-02-inter-network-routing/lab-02.pkt
+e8f9d3ded971e4b1b4377fcfa1679557c62a67a3a3c1da8798821f637e86a421  lab-03-vlans-and-trunking/lab-03.pkt
